@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
 
-### :mailbox: How to reach me:
-- Email: [coderxiaozhu@163.com][e-mail]
+### :mailbox: How to Connect with Me:
+- Email: [coderxiaozhu@163.com]
