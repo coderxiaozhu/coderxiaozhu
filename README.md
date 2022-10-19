@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/m19867571404@163.com?style=flat-square&logo=gmail"></a>
+<a href="mailto:mailto:19867571404@163.com"><img alt="Email" src="https://img.shields.io/badge/19867571404@163.com?style=flat-square&logo=gmail"></a>
