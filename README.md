@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
 
 ### :mailbox: How to Connect with Me:
 - Email: [coderxiaozhu@163.com]
+- WeChat : 19941208872
